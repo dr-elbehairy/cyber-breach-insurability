@@ -1,0 +1,5 @@
+{"us_population": {"value": 343105000, "units": "persons", "date": "2026-09 (monthly)",
+  "source": "U.S. Bureau of Economic Analysis, Population [POPTHM], thousands, monthly; retrieved from FRED, Federal Reserve Bank of St. Louis, https://fred.stlouisfed.org/series/POPTHM, 2026-11-21",
+  "file": "data_raw/FRED_POPTHM.csv"},
+ "downloads": {"hhs": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf (CSV export of 'Under Investigation' and 'Archive', 2026-11-21)",
+  "vcdb": "https://github.com/vz-risk/VCDB/raw/master/data/joined/vcdb.json.zip (2026-11-21)"}}

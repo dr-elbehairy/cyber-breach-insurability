@@ -1,0 +1,4 @@
+data_raw/vcdb.json.zip
+data/
+__pycache__/
+*.pkl
